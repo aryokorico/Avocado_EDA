@@ -6,6 +6,7 @@ Hi there! I use the Expedia Hotel dataset competition with an approach of market
 https://www.kaggle.com/neuromusic/avocado-prices
 
 > My descriptive analysis and scope of the following project include:
+- Descriptive analysis
 - Exploratory data analysis
 - Visualization
 - Consumer behavior
