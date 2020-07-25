@@ -13,7 +13,7 @@ https://www.kaggle.com/neuromusic/avocado-prices
 - Market segmentation
 - Marketing strategy
 
-Thank you for checking in and any feedbacks are welcomed.
+Thank you for checking Avocado_EDA.ipynb in and any feedbacks are welcomed.
 
 
 Cheers!
